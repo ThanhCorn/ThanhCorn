@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Javascript, HTML, CSS, ReactJS<br>👯 I’m looking to collaborate with my team in school<br>🤝 I’m looking for help with a team or company that can improve my skill and learning how to work on an actual project<br>🌱 I’m currently learning Nodejs and Tailwind<br>⚡ Fun fact My last name is Ngô, in Vietnam Ngô = Corn so my name is Thành Bắp means ThanhCorn
-
+https://contentstatic.techgig.com/photo/81207309/5-essential-software-developer-skills-to-get-hired-in-2021.jpg?85576
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thanhcorn2000) 
