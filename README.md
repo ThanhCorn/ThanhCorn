@@ -17,6 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
+- ⚡ Fun fact: My last name is Ngô, in VietNam Ngô = corn so my name is Thanhcorn also means Thành Ngô 😄😄
+
 - 💬 Ask me about **react, html, css, javascript**
 
 - 📫 How to reach me **nnnt10122000@gmail.com**
