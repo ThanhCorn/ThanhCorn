@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/thanhcorn2000" target="blank"><img src="https://img.shields.io/twitter/follow/thanhcorn2000?logo=twitter&style=for-the-badge" alt="thanhcorn2000" /></a> </p>
 
-- 🔭 I’m currently working on **Not yet**
+- 🔭 I’m currently working on Deliveree On Demand Logistics
 
 - 🌱 I’m currently learning **nodejs, tailwindcss, typescript**
-
-- 👯 I’m looking to collaborate with **with my team in school**
-
-- 🤝 I’m looking for help with **a team or company that can improve my skill and learning how to work on an actual project**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
 - ⚡ Fun fact: My last name is Ngô, in VietNam Ngô = corn so my name is Thanhcorn also means Thành Ngô 😄😄
 
-- 💬 Ask me about **react, html, css, javascript**
+- 💬 Ask me about **react, html, css, javascript, golang, clean architecture**
 
 - 📫 How to reach me **nnnt10122000@gmail.com**
 
