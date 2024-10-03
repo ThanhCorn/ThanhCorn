@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thanhcorn</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
-
+[![An image of @thanhcorn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thanhcorn)](https://holopin.io/@thanhcorn)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhcorn&label=Profile%20views&color=0e75b6&style=flat" alt="thanhcorn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thanhcorn2000" target="blank"><img src="https://img.shields.io/twitter/follow/thanhcorn2000?logo=twitter&style=for-the-badge" alt="thanhcorn2000" /></a> </p>
